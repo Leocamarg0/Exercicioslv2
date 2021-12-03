@@ -1,0 +1,6 @@
+Digitar em pesquisa, CMD
+cd desktop
+mkdir novo_diretorio
+cd novo_diretorio
+code
+

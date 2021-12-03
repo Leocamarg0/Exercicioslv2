@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    background-color: black;
+}
+#titulo{
+    color: orange;
+    text-align: center;
+
+}
+header {
+    background-color: red;
+    max-width: 30%;
+    margin: auto;
+    justify-content: space-evenly;
+    text-align: center;
+    }
+
+main { 
+    font-weight: bold;
+    background-color: darkgray;
+    max-width: 50%;
+    margin: auto;
+}
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+button {
+    background-color: greenyellow;
+    font-weight: bold;
+    border: 5px solid blue;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+footer {
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+
+}
